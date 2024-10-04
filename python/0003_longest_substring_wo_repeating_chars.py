@@ -1,6 +1,6 @@
 """ Longest Substring Without Repeating Characters
 
-Level: Medium 
+LEVEL: Medium 
 Given a string s, find the length of the longest substring without repeating characters.
 
 Example 1:
